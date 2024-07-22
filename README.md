@@ -1,0 +1,2 @@
+# go_bin_uninstaller
+GOBINにインストールされている実行ファイルを削除する
